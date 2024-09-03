@@ -4,7 +4,7 @@
 
 ### /summon 指令
 
-![summon uasge](/Users/erou/Documents/MCP-Notes/1.8.9/src.main.java.net.minecraft/command/server/summonable-entities.png)
+![summon uasge](./summonable-entities.png)
 
 [CommandBase](../CommandBase.md)
 
